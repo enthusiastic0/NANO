@@ -20,7 +20,7 @@
 
         <div class="quick-actions">
           <a :href="`mailto:${profile.email}`"><Mail :size="17" /> Email me</a>
-          <a :href="`tel:${profile.phone}`"><Phone :size="17" /> 联系开发者</a>
+          <a :href="`tel:${profile.phone}`"><Phone :size="17" /> 联系我</a>
         </div>
 
         <div class="side-note">
