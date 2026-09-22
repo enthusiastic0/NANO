@@ -137,7 +137,7 @@ const defaultState = {
     bio: '现在过的每一天，都是余生中最年轻的一天。所以趁着年轻，多去拥抱美好吧！这里可以自由编辑简介、添加文字和上传图片。',
     stats: [
       { value: '12', label: '作品' },
-      { value: '36', label: '记录' },
+      { value: '38', label: '记录' },
       { value: '8', label: '证书' },
     ],
   },
