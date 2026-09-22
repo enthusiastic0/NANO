@@ -130,7 +130,7 @@ const defaultState = {
     name: '环己烷',
     role: '个人主页',
     email: 'hello@example.com',
-    phone: '13800000000',
+    phone: '18297732366',
     slogan: '把每天的灵感记录下来。',
     avatar:
       'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180"><rect width="180" height="180" rx="48" fill="%23ffffff"/><text x="50%25" y="52%25" dominant-baseline="middle" text-anchor="middle" font-size="72" font-family="Arial" fill="%23252b36">弓</text></svg>',
