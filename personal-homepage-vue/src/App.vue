@@ -33,7 +33,7 @@
         <header class="topbar">
           <div>
             <p class="eyebrow">Personal Homepage</p>
-            <h1>我的主页</h1>
+            <h1>个人主页</h1>
           </div>
           <div class="top-actions">
             <button type="button" class="ghost-btn" @click="resetDemo"><RotateCcw :size="17" /> 重置</button>
