@@ -131,7 +131,7 @@ const defaultState = {
     role: '个人主页',
     email: 'hello@example.com',
     phone: '13800000000',
-    slogan: '把每天的灵感、作品和成长记录下来。',
+    slogan: '把每天的灵感记录下来。',
     avatar:
       'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180"><rect width="180" height="180" rx="48" fill="%23ffffff"/><text x="50%25" y="52%25" dominant-baseline="middle" text-anchor="middle" font-size="72" font-family="Arial" fill="%23252b36">弓</text></svg>',
     bio: '现在过的每一天，都是余生中最年轻的一天。所以趁着年轻，多去拥抱美好吧！这里可以自由编辑简介、添加文字和上传图片。',
